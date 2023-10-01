@@ -26,5 +26,10 @@ namespace Model_View_ControllerBased.Controllers
 
             return View();
         }
+
+        public ActionResult TestFonksiyonuView()//isimlendirme view tarafındaki html ile aynı olmalı
+        {
+            return View(); //geriye bir sayfa döndürüyor
+        }
     }
 }
