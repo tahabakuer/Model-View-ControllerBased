@@ -11,7 +11,10 @@ namespace EntityLayer.Concrete
         public int ContentID { get; set; }
         public string ContentValue { get; set; }
         public DateTime ContentDate { get; set; }
-        //yazar eklenecek
-        //Başlık eklenecek
+        public int WriterID { get; set; }
+        public virtual Writer Writer { get; set; } //writer'a erişmek için
+        public int HeadingID { get; set; }
+        public virtual Heading Heading { get; set; }
+        
     }
 }
