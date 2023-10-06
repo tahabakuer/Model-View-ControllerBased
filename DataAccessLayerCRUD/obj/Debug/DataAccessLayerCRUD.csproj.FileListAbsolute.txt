@@ -1,0 +1,15 @@
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\DataAccessLayerCRUD.dll.config
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\DataAccessLayerCRUD.dll
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\DataAccessLayerCRUD.pdb
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityFramework.dll
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityLayer.dll
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityLayer.pdb
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityLayer.dll.config
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityFramework.xml
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\obj\Debug\DataAccessLayerCRUD.csproj.AssemblyReference.cache
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\obj\Debug\DataAccessLayerCRUD.csproj.CoreCompileInputs.cache
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\obj\Debug\DataAccessLayerCRUD.csproj.CopyComplete
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\obj\Debug\DataAccessLayerCRUD.dll
+C:\Users\tahab\source\repos\Model-View-ControllerBased\DataAccessLayerCRUD\obj\Debug\DataAccessLayerCRUD.pdb
